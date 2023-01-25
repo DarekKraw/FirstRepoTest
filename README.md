@@ -1,3 +1,3 @@
 # LISTA ZAKUPÓW (TEST)
 
-Podaj imie:
+Podaj imie: Darek
