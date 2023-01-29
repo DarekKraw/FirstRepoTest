@@ -4,3 +4,6 @@ wedlina
 ser
 warzywa
 mieso
+woda
+sok
+jajka
