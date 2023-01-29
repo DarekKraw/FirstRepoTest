@@ -7,5 +7,4 @@ mieso: 20
 woda: 3
 sok: 5
 jajka: 8
-xxx
 
