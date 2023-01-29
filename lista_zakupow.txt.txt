@@ -1,4 +1,5 @@
 chleb
 maslo
 wedlina
-ser
+serser
+warzywa
