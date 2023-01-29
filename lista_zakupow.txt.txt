@@ -2,9 +2,10 @@ chleb: 10
 maslo: 7
 wedlina: 10
 ser: 20
-warzywa
-mieso
-woda
-sok
-jajka
+warzywa: 5
+mieso: 20
+woda: 3
+sok: 5
+jajka: 8
+xxx
 
