@@ -8,5 +8,6 @@ woda: 3
 sok: 5
 jajka: 8
 proszek: 30
+domestos: 20
 xxx
 
