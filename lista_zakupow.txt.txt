@@ -1,5 +1,6 @@
 chleb
 maslo
 wedlina
-serser
+ser
 warzywa
+mieso
