@@ -1,4 +1,4 @@
-chleb
-maslo
-wedlina
-ser
+chleb: 10
+maslo: 7
+wedlina: 10
+ser: 20
